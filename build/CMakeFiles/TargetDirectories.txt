@@ -1,3 +1,0 @@
-/home/gabinus/Desktop/Projects/testproj/build/CMakeFiles/test1.dir
-/home/gabinus/Desktop/Projects/testproj/build/CMakeFiles/edit_cache.dir
-/home/gabinus/Desktop/Projects/testproj/build/CMakeFiles/rebuild_cache.dir
